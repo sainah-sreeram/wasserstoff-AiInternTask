@@ -1,1 +1,1 @@
-# sainah-sreeram-wasserstoff-AiInternTask
+This project builds an AI pipeline to segment, identify, and analyze objects within an image. The pipeline uses deep learning models for image segmentation, object extraction, text/data extraction, summarization of object attributes, and mapping data to generate a final output.
